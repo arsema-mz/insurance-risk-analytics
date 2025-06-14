@@ -1,0 +1,10 @@
+# Ignore data files
+data/MachineLearningRating_v3.txt
+data/*.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
